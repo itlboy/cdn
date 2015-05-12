@@ -1,0 +1,24 @@
+{
+  "name": "cdn",
+  "version": "1.0.0",
+  "description": "CDN",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itlboy/cdn.git"
+  },
+  "author": "itlboy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itlboy/cdn/issues"
+  },
+  "homepage": "https://github.com/itlboy/cdn",
+  "dependencies": {
+    "geoip-lite": "^1.1.6",
+    "maxmind-native": "^0.1.2",
+    "native-dns": "^0.7.0"
+  }
+}
